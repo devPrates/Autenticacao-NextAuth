@@ -26,7 +26,7 @@ export default async function Register() {
               &ldquo;Esta apicação é um guia para utilização do Next-Auth
               (Authjs) em conjunto com Prisma (MongoDB) e NextJs 14+.&rdquo;
             </p>
-            <footer className="text-sm">Gabriel Prates</footer>
+            <footer className="text-sm">Gabriel Prates Bitencourt</footer>
           </blockquote>
         </div>
       </div>
